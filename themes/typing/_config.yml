@@ -1,0 +1,80 @@
+# Lang
+language: en
+
+# Dark Mode
+dark: false
+
+# Header
+menu:
+  Home: /
+  Archives: /archives
+  About: /about
+
+# Your Feed Location
+#rss: /atom.xml
+
+# Content
+fancybox: true
+
+
+# Miscellaneous
+google_analytics:
+favicon: /favicon.ico
+twitter:
+google_plus:
+fb_admins:
+fb_app_id:
+
+
+# Profile
+nickname: Infinito Parra
+description: <h3>Poeta infinito en un mundo finito</h3><br /><p>Jose María Parra López es el autor de [Ciento once sonetos](), [En la crisálida de luz y viento]() y la breve novela [Las alas del Universo](). En ambas, el autor intenta desarraigarse de los dogmas para liberar el alma a través de la eternidad y de lo infinito, considerándolos contenidos en el instante. En sus versos y en su prosa, el pensamiento se confunde con el alma, capaz de cargar la inmensidad del Cosmos a través de las propias ideas, con tal fuerza, que nos hace pensar en que el Universo es sin que necesariamente el tiempo transcurra, delimitado y definido así simplemente por su existencia. </p>
+
+# Load fontawesome icons? Also see the links option
+icons: false
+
+# Footer area links
+# NOTICE) If you set "icons: false" link names will be clear text
+# If "icons: true" link names will interpreted as fontawesome icon names
+# NOTICE) Use the fontawesome icon names without the fa- prefix (http://fontawesome.io/cheatsheet/)
+links:
+  En la crisálida de luz y viento: categories/111-sonetos/
+  Ciento once sonetos: categories/111-sonetos/
+
+
+# nav position (top, left. top is default)
+nav: left
+
+# Info
+archive_footer_content: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** Fusce eget urna vitae velit *eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque* penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Archive
+post_footer_content: ipsum dolor sit amet, **consectetur adipiscing elit.** Fusce eget urna vitae velit *eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque* penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Post
+
+# Gitment
+gitment:
+  owner:
+  repo:
+  client:
+    id:
+    secret:
+
+# If you want to use valine,you should get the appId and appKey form https://leancloud.cn ,more setting please see https://valine.js.org
+valine:
+  enable: false # !!if you want use valine comment system,please set enable: true
+  appId:  #your leancloud appId
+  appKey:  #your leancloud appKey
+  guest_info: nick,mail,link #valine comment header info
+  placeholder: Just go go # valine comment input placeholder(like: Please leave your footprints )
+  avatar: mm # gravatar style https://valine.js.org/avatar
+  pageSize: 10 # comment list page size
+  verify: false # valine verify code (true/false)
+  notify: false # valine mail notify (true/false)
+  lang: zh-cn
+
+# Donate
+donate:
+  github: https://github.com/geekplux
+  paypal: https://www.paypal.me/geekplux
+  bitcoin: 1AVngxh56oLvAzXsEFnzccUohZdHswjC7j
+  BTCQR: http://7b1evr.com1.z0.glb.clouddn.com/donate/bitcoin.png
+  AliPayQR: http://7b1evr.com1.z0.glb.clouddn.com/donate/alipayQR.jpg
+  WeChatQR: http://7b1evr.com1.z0.glb.clouddn.com/donate/wechatQR.jpg
