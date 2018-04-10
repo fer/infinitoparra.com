@@ -1,7 +1,7 @@
 
-<div style="text-align: center">
+<p align="center">
 <img src="themes/typing/source/images/logo.png" alt="Drawing" width="100" />
-</div>
+</p>
 
 # infinitoparra.com
 
