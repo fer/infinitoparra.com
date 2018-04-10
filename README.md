@@ -1,3 +1,8 @@
+
+![](themes/typing/source/images/logo.png =100x40)
+
+
+
 # infinitoparra.com
 
 Hexo website
