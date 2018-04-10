@@ -26,7 +26,7 @@ fb_app_id:
 
 # Profile
 nickname: Infinito Parra
-description: <h3>Poeta infinito en un mundo finito</h3><br /><p>Jose María Parra López es el autor de [Ciento once sonetos](111-sonetos/), [En la crisálida de luz y viento](En-la-crisalida-de-luz-y-viento) y la breve novela [Las alas del Universo](). En ambas, el autor intenta desarraigarse de los dogmas para liberar el alma a través de la eternidad y de lo infinito, considerándolos contenidos en el instante. En sus versos y en su prosa, el pensamiento se confunde con el alma, capaz de cargar la inmensidad del Cosmos a través de las propias ideas, con tal fuerza, que nos hace pensar en que el Universo es sin que necesariamente el tiempo transcurra, delimitado y definido así simplemente por su existencia. </p>
+description: <h3>Poeta infinito en un mundo finito</h3><br /><p>Jose María Parra López es el autor de [Ciento once sonetos](111-sonetos/), [En la crisálida de luz y viento](En-la-crisalida-de-luz-y-viento) y la breve novela [Las alas del Universo](). En sus versos y en su prosa, el pensamiento se confunde con el alma, capaz de cargar la inmensidad del Cosmos a través de las propias ideas, con tal fuerza, que nos hace pensar en que el Universo es sin que necesariamente el tiempo transcurra, delimitado y definido así simplemente por su existencia. </p>
 
 # Load fontawesome icons? Also see the links option
 icons: false
