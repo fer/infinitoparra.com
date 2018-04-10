@@ -1,5 +1,6 @@
 
-![](themes/typing/source/images/logo.png =100x40)
+<img src="themes/typing/source/images/logo.png" alt="Drawing" style="width: 100px;"/>
+
 
 
 
