@@ -1,8 +1,7 @@
 
-<img src="themes/typing/source/images/logo.png" alt="Drawing" style="width: 100px;"/>
-
-
-
+<p style="text-align: center">
+<img src="themes/typing/source/images/logo.png" alt="Drawing" width="100" />
+</p>
 
 # infinitoparra.com
 
