@@ -39,17 +39,17 @@
 		  });
 	  }
 
-	  $('#donateBox>li').click(function(event) {
-		  var thisID	=	$(this).attr('id');
-		  if (thisID === 'BTC') {
-			  showQR(BTCQR);
-			  new Clipboard('#BTCBn');
-		  } else if (thisID === 'AliPay') {
-			  showQR(AliPayQR);
-		  } else if (thisID === 'WeChat') {
-			  showQR(WeChatQR);
-		  }
-	  });
+	  // $('#donateBox>li').click(function(event) {
+		//   var thisID	=	$(this).attr('id');
+		//   if (thisID === 'BTC') {
+		// 	  showQR(BTCQR);
+		// 	  new Clipboard('#BTCBn');
+		//   } else if (thisID === 'AliPay') {
+		// 	  showQR(AliPayQR);
+		//   } else if (thisID === 'WeChat') {
+		// 	  showQR(WeChatQR);
+		//   }
+	  // });
 
 	  MainBox.click(function(event) {
 		  if (currentQR) currentQR.removeClass('showQR').addClass('hideQR');
