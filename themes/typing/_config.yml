@@ -16,7 +16,7 @@ fancybox: true
 
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-117243151-1
 favicon: /favicon.ico
 twitter:
 google_plus:
