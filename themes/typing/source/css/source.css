@@ -121,7 +121,7 @@ blockquote {
   color: $grey-light;
   /* opacity: .6; */
   li {
-    display: inline-block;
+    /*display: inline-block;*/
   }
 
   a {
